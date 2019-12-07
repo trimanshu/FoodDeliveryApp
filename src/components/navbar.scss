@@ -1,0 +1,19 @@
+
+
+    .logo{
+        width: 30%;
+        font-size: 35px;
+        font-weight: 900;
+        cursor: pointer;
+    }
+
+    .switches{
+        display: flex;
+        justify-content: space-around;
+        width: 70%;
+        font-weight: 500;
+
+        .switch{
+            cursor: pointer;
+        }
+    }

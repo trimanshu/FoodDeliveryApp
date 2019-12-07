@@ -1,0 +1,83 @@
+.menu{
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 35%;
+    background-color: white;
+    margin-left: 60px;
+
+    .scroll{
+        overflow-y: scroll;
+
+        .list {
+            display: flex;
+            flex-direction: row;
+            justify-content: space-between;
+            cursor: pointer;
+            padding: 5px;
+
+            &:hover{
+                background-color: lightgrey;
+            }
+    
+            .item{
+                padding: 20px;
+            }
+    
+            .price{
+                padding-top: 20px;
+            }
+        }
+    }
+
+    
+}
+
+.blnk{
+    width: 20%;
+}
+
+.cart {
+    height: 100%;
+    width: 35%;
+    background-color: white;
+    margin-right: 60px;
+    display: flex;
+    flex-direction: column;
+
+    
+    .scroll{
+        overflow-y: scroll;
+        height: 75%;
+
+        .list {
+            display: flex;
+            flex-direction: row;
+            justify-content: space-between;
+            cursor: pointer;
+            padding: 5px;
+
+            &:hover{
+                background-color: lightgrey;
+            }
+    
+            .item{
+                padding: 20px;
+            }
+    
+            .price{
+                padding-top: 20px;
+            }
+        }
+    }
+
+    .total{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        height: 15%;
+        padding: 10px 20px;
+        background-color: orange;
+
+    }
+}

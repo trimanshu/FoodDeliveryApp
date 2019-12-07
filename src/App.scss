@@ -1,0 +1,102 @@
+html{
+  scroll-behavior: smooth;
+}
+
+.App {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  height: 200%;
+  width: 100%;
+
+  .main{
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+    background-image: url("./assets/img1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    .App-header {
+      background-color: black;
+      opacity: .7;
+      height: 10%;
+      width: 100%;
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+      justify-content: center;
+      font-size: calc(10px + 2vmin);
+      color: white;
+    }
+
+    .blank{
+      height: 27%;
+    }
+  
+    .body1{
+      display: flex;
+      flex-direction: column;
+      height: 58%;
+      width: 100%;
+  
+      .icons{
+        padding: 20px;
+      }
+    }
+
+    .footer{
+      display: flex;
+      flex-direction: column;
+      height:5%;
+      text-align: center;
+    }
+    
+  }
+
+  
+
+  .body2{
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+    background-image: url("./assets/bg-img1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    .blank1 {
+      height: 15%;
+    }
+
+    .order-screen {
+      display: flex;
+      flex-direction: row;
+      height: 65%;
+    }
+
+  }
+
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
