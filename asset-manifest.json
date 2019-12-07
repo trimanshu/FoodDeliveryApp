@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/FoodDeliveryApp/static/css/main.58448298.chunk.css",
+    "main.js": "/FoodDeliveryApp/static/js/main.228abfd4.chunk.js",
+    "main.js.map": "/FoodDeliveryApp/static/js/main.228abfd4.chunk.js.map",
+    "runtime-main.js": "/FoodDeliveryApp/static/js/runtime-main.cbafd24b.js",
+    "runtime-main.js.map": "/FoodDeliveryApp/static/js/runtime-main.cbafd24b.js.map",
+    "static/js/2.7f5604c3.chunk.js": "/FoodDeliveryApp/static/js/2.7f5604c3.chunk.js",
+    "static/js/2.7f5604c3.chunk.js.map": "/FoodDeliveryApp/static/js/2.7f5604c3.chunk.js.map",
+    "index.html": "/FoodDeliveryApp/index.html",
+    "precache-manifest.2376854d7bb80846fc3cf430a044ae4c.js": "/FoodDeliveryApp/precache-manifest.2376854d7bb80846fc3cf430a044ae4c.js",
+    "service-worker.js": "/FoodDeliveryApp/service-worker.js",
+    "static/css/main.58448298.chunk.css.map": "/FoodDeliveryApp/static/css/main.58448298.chunk.css.map",
+    "static/js/2.7f5604c3.chunk.js.LICENSE": "/FoodDeliveryApp/static/js/2.7f5604c3.chunk.js.LICENSE",
+    "static/media/App.scss": "/FoodDeliveryApp/static/media/img1.0ca29312.jpg",
+    "static/media/cheeseNachos.jpeg": "/FoodDeliveryApp/static/media/cheeseNachos.b343137a.jpeg",
+    "static/media/farmhousePizza.jpeg": "/FoodDeliveryApp/static/media/farmhousePizza.e72a1b3e.jpeg",
+    "static/media/margheritaPizza.jpeg": "/FoodDeliveryApp/static/media/margheritaPizza.3205debc.jpeg",
+    "static/media/paneerCheeseBurger.jpeg": "/FoodDeliveryApp/static/media/paneerCheeseBurger.8998cb96.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cbafd24b.js",
+    "static/js/2.7f5604c3.chunk.js",
+    "static/css/main.58448298.chunk.css",
+    "static/js/main.228abfd4.chunk.js"
+  ]
+}
